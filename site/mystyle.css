@@ -1,0 +1,13 @@
+h1 {
+	font-size:25pt; 
+        color:green;
+        font-family:"Times New Roman";
+}
+
+p {
+	font-size:15pt; 
+	color:fuchsia; 
+	font-family:“Comic Sans MS”;
+	text-align:center;
+}
+
